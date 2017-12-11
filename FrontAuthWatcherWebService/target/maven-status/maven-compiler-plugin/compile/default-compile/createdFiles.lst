@@ -1,0 +1,3 @@
+fr/cpe/rest/ApplicationRestInit.class
+fr/cpe/rest/servlet/WatcherAuthServlet.class
+fr/cpe/rest/comm/JmsSender.class
